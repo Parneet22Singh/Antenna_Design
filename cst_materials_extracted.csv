@@ -1,0 +1,360 @@
+Filename,Epsilon,Mu,Sigma,TanD,TanDFreq,EpsInfinity,DispModelEps,DispCoeff1Eps,DispCoeff2Eps,UseGeneralDispersionEps,ThermalConductivity,ThermalConductivityX,ThermalConductivityY,ThermalConductivityZ,HeatCapacity,ThermalExpansionRate,Emissivity,YoungsModulus,PoissonsRatio,Rho
+Air (CHT).mtd,1.00059,1.0,0.0,0.0,0.0,N/A,None,N/A,N/A,False,0.026,N/A,N/A,N/A,1.005,N/A,0.0,N/A,N/A,1.204
+Air.mtd,1.00059,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.026,N/A,N/A,N/A,1.005,N/A,N/A,N/A,N/A,1.204
+Alumina (96%) (loss free).mtd,9.4,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,25,N/A,N/A,N/A,0.88,7,N/A,300,0.22,3800.0
+Alumina (96%) (lossy).mtd,9.4,1.0,N/A,0.0004,1.0,N/A,None,N/A,N/A,False,25,N/A,N/A,N/A,0.88,7,N/A,300,0.22,3800.0
+Alumina (99.5%) (loss free).mtd,9.9,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,30,N/A,N/A,N/A,0.88,7.9,N/A,370,0.22,3900.0
+Alumina (99.5%) (lossy).mtd,9.9,1.0,N/A,0.0001,1.0,N/A,None,N/A,N/A,False,30,N/A,N/A,N/A,0.88,7.9,N/A,370,0.22,3900.0
+Aluminum Nitride (loss free).mtd,8.6,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,200,N/A,N/A,N/A,0.74,3.9,N/A,308,0.22,3260.0
+Aluminum Nitride (lossy).mtd,8.6,1.0,N/A,0.0003,1.0,N/A,None,N/A,N/A,False,200,N/A,N/A,N/A,0.74,3.9,N/A,308,0.22,3260.0
+Aluminum.mtd,1,1.0,3.56e+007,0.0,0.0,N/A,None,N/A,N/A,False,237.0,N/A,N/A,N/A,0.9,23,N/A,69,0.33,2700.0
+Arlon AD 1000 (loss free).mtd,10.2,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.645,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 1000 (lossy).mtd,10.2,1.0,N/A,0.0023,10.0,N/A,None,N/A,N/A,False,0.645,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 250C (loss free).mtd,2.5,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.235,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 250C (lossy).mtd,2.5,1.0,N/A,0.0013,10.0,N/A,None,N/A,N/A,False,0.235,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 255C (loss free).mtd,2.6,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.235,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 255C (lossy).mtd,2.6,1.0,N/A,0.0014,10.0,N/A,None,N/A,N/A,False,0.235,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 260A (loss free).mtd,2.6,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.235,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 260A (lossy).mtd,2.6,1.0,N/A,0.0017,10.0,N/A,None,N/A,N/A,False,0.235,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 300C (loss free).mtd,2.98,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.235,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 300C (lossy).mtd,2.98,1.0,N/A,0.002,10.0,N/A,None,N/A,N/A,False,0.235,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 300D (loss free).mtd,2.98,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.235,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 300D (lossy).mtd,2.98,1.0,N/A,0.002,10.0,N/A,None,N/A,N/A,False,0.235,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 320A (loss free).mtd,3.2,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.235,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 320A (lossy).mtd,3.2,1.0,N/A,0.0032,10.0,N/A,None,N/A,N/A,False,0.235,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 350A (loss free).mtd,3.5,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.235,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 350A (lossy).mtd,3.5,1.0,N/A,0.003,10.0,N/A,None,N/A,N/A,False,0.235,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 410 (loss free).mtd,4.1,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.46,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 410 (lossy).mtd,4.1,1.0,N/A,0.003,10.0,N/A,None,N/A,N/A,False,0.46,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 430 (loss free).mtd,4.3,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.46,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 430 (lossy).mtd,4.3,1.0,N/A,0.003,10.0,N/A,None,N/A,N/A,False,0.46,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 450 (loss free).mtd,4.5,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.38,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 450 (lossy).mtd,4.5,1.0,N/A,0.0035,10.0,N/A,None,N/A,N/A,False,0.38,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 600 (loss free).mtd,6.15,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.46,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon AD 600 (lossy).mtd,6.15,1.0,N/A,0.003,10.0,N/A,None,N/A,N/A,False,0.46,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon CLTE (loss free).mtd,2.98,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon CLTE (lossy).mtd,2.98,1.0,N/A,0.0023,10.0,N/A,None,N/A,N/A,False,0.5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon CLTE-AT (loss free).mtd,3.0,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon CLTE-AT (lossy).mtd,3.0,1.0,N/A,0.0013,10.0,N/A,None,N/A,N/A,False,0.5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon CLTE-XT (loss free).mtd,2.94,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon CLTE-XT (lossy).mtd,2.94,1.0,N/A,0.0012,10.0,N/A,None,N/A,N/A,False,0.5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon CuClad 217 (loss free).mtd,2.2,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.261,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon CuClad 217 (lossy).mtd,2.2,1.0,N/A,0.0009,10.0,N/A,None,N/A,N/A,False,0.261,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon CuClad 233 (loss free).mtd,2.33,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.258,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon CuClad 233 (lossy).mtd,2.33,1.0,N/A,0.0013,10.0,N/A,None,N/A,N/A,False,0.258,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon CuClad 250 (loss free).mtd,2.5,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.254,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon CuClad 250 (lossy).mtd,2.5,1.0,N/A,0.0017,1.0,N/A,None,N/A,N/A,False,0.254,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon DiClad 527 (loss free).mtd,2.5,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.254,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon DiClad 527 (lossy).mtd,2.5,1.0,N/A,0.0017,10.0,N/A,None,N/A,N/A,False,0.254,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon DiClad 870 (loss free).mtd,2.33,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.257,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon DiClad 870 (lossy).mtd,2.33,1.0,N/A,0.0013,10.0,N/A,None,N/A,N/A,False,0.257,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon DiClad 880 (loss free).mtd,2.2,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.261,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon DiClad 880 (lossy).mtd,2.2,1.0,N/A,0.0009,10.0,N/A,None,N/A,N/A,False,0.261,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon IsoClad 917 (loss free).mtd,2.17,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.263,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon IsoClad 917 (lossy).mtd,2.17,1.0,N/A,0.0013,10.0,N/A,None,N/A,N/A,False,0.263,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon IsoClad 933 (loss free).mtd,2.33,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.263,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Arlon IsoClad 933 (lossy).mtd,2.33,1.0,N/A,0.0016,10.0,N/A,None,N/A,N/A,False,0.263,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Beryllia (99.5%) (loss free).mtd,6.5,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,330,N/A,N/A,N/A,1,7,N/A,345,0.26,2850.0
+Beryllia (99.5%) (lossy).mtd,6.5,1.0,N/A,0.0004,10.0,N/A,None,N/A,N/A,False,330,N/A,N/A,N/A,1,7,N/A,345,0.26,2850.0
+Brass (65%).mtd,1,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,109,N/A,N/A,N/A,0.38,20,N/A,102,0.343,8500.0
+Brass (91%).mtd,1,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,109,N/A,N/A,N/A,0.38,20,N/A,102,0.343,8500.0
+Carbon dioxide (20C 1atm) (CHT).mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,False,0.016242,N/A,N/A,N/A,0.84606,N/A,0,N/A,N/A,1.8393
+Carbon monoxide (20C 1atm) (CHT).mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,False,0.026135,N/A,N/A,N/A,1.0421,N/A,0,N/A,N/A,1.1649
+Chromium.mtd,1,1,N/A,0.0,0.0,N/A,None,N/A,N/A,False,69,N/A,N/A,N/A,0.46,N/A,N/A,N/A,N/A,7190
+Concrete (forty years old).mtd,1,1,N/A,0.0,0.0,N/A,None,N/A,N/A,True,1.7,N/A,N/A,N/A,0.8,13,N/A,30,0.2,2400
+Concrete (one year old).mtd,1,1,N/A,0.0,0.0,N/A,None,N/A,N/A,True,1.7,N/A,N/A,N/A,0.8,13,N/A,30,0.2,2400
+Copper (annealed).mtd,1,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,401.0,N/A,N/A,N/A,0.39,17,N/A,120,0.33,8930.0
+Copper (pure).mtd,1,1.0,5.96e+007,0.0,0.0,N/A,None,N/A,N/A,False,401.0,N/A,N/A,N/A,0.39,17,N/A,120,0.33,8930.0
+Diamond.mtd,5.68,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,2000,N/A,N/A,N/A,0.5,N/A,N/A,N/A,N/A,3510.0
+Epoxy resin.mtd,4,1,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.2,N/A,N/A,N/A,N/A,N/A,N/A,13,0.45,1500
+Ethylene glycol (20C) (CHT).mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,False,0.249,N/A,N/A,N/A,2.38,N/A,0,N/A,N/A,1116.65
+FR-4 (loss free).mtd,4.3,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+FR-4 (lossy - thermal anisotropic).mtd,4.3,1.0,N/A,0.025,10.0,N/A,None,N/A,N/A,False,N/A,0.81,0.81,0.3,0.6,N/A,N/A,N/A,N/A,0.0
+FR-4 (lossy).mtd,4.3,1.0,N/A,0.025,10.0,N/A,None,N/A,N/A,False,0.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+G-10 (loss free).mtd,4.8,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+G-10 (lossy).mtd,4.8,1.0,N/A,0.025,1.0,N/A,None,N/A,N/A,False,0.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Gallium Arsenide (loss free).mtd,12.94,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,54,N/A,N/A,N/A,0.33,5.8,N/A,85,0.31,5320.0
+Gallium Arsenide (lossy).mtd,12.94,1.0,N/A,0.006,10.0,N/A,None,N/A,N/A,False,54,N/A,N/A,N/A,0.33,5.8,N/A,85,0.31,5320.0
+Glycerin.mtd,50,1,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.294,N/A,N/A,N/A,2.4,N/A,N/A,N/A,N/A,1260
+Gold.mtd,1,1.0,4.561e+007,0.0,0.0,N/A,None,N/A,N/A,False,314.0,N/A,N/A,N/A,0.13,14,N/A,78,0.42,19320.0
+Graphite.mtd,12,1,N/A,0.0,0.0,N/A,None,N/A,N/A,False,24,N/A,N/A,N/A,0.71,7.9,N/A,4.8,0.2,2250
+Helium (20C 1atm) (CHT).mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,False,0.1535,N/A,N/A,N/A,5.193,N/A,0,N/A,N/A,0.16632
+Hydrogen (20C 1atm) (CHT).mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,False,0.18248,N/A,N/A,N/A,14.287,N/A,0,N/A,N/A,0.083755
+Iron.mtd,1,1,1.04e+007,0.0,0.0,N/A,None,N/A,N/A,False,79.5,N/A,N/A,N/A,0.45,12,0,200,0.291,7870.0
+Lead glass.mtd,6,1,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0,N/A,N/A,N/A,N/A,8.18,N/A,62.7,0.23,4200
+Lead.mtd,1,0.999983,N/A,0.0,0.0,N/A,None,N/A,N/A,False,34.7,N/A,N/A,N/A,0.13,29.1,N/A,14,0.42,11340
+Loamy Soil (dry).mtd,2.44,1,N/A,0.0014,10.0,N/A,None,N/A,N/A,False,0.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1200
+Loamy Soil (wet).mtd,13.80,1,N/A,0.18,10.0,N/A,None,N/A,N/A,False,0.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1400
+Magnesium.mtd,1,1,N/A,0.0,0.0,N/A,None,N/A,N/A,False,156,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,1740
+Mercury.mtd,1,0.99997,N/A,0.0,0.0,N/A,None,N/A,N/A,False,8.3,N/A,N/A,N/A,0.14,N/A,N/A,N/A,N/A,13550
+Methane (20C 1atm) (CHT).mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,False,0.033607,N/A,N/A,N/A,2.2206,N/A,0,N/A,N/A,0.66816
+Mica (glass bonded).mtd,6.7,1,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.71,N/A,N/A,N/A,0.5,N/A,N/A,N/A,N/A,3000
+Mica (muscovite).mtd,7.9,1,N/A,0.0,0.0,N/A,None,N/A,N/A,False,4,N/A,N/A,N/A,0.5,N/A,N/A,N/A,N/A,2800
+Mica.mtd,6,1,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.75,N/A,N/A,N/A,0.5,N/A,N/A,N/A,N/A,2800
+Molybdenum.mtd,1,1,N/A,0.0,0.0,N/A,None,N/A,N/A,False,142,N/A,N/A,N/A,0.276,N/A,N/A,N/A,N/A,10220
+Nickel.mtd,1,600,N/A,0.0,0.0,N/A,None,N/A,N/A,False,91,N/A,N/A,N/A,0.45,13.1,N/A,207,0.31,8900
+Nitrogen (20C 1atm) (CHT).mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,False,0.025388,N/A,N/A,N/A,1.0413,N/A,0,N/A,N/A,1.1654
+Oil.mtd,2.33,1,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,920
+Oxygen (20C 1atm) (CHT).mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,False,0.026105,N/A,N/A,N/A,0.91895,N/A,0,N/A,N/A,1.3312
+Paper (oil impregnated).mtd,3.87,1,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,800
+Paper.mtd,2.31,1,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.05,N/A,N/A,N/A,1.4,N/A,N/A,N/A,N/A,800
+PEC.mtd,1,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0
+Phosphor bronze.mtd,1,1,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,8900
+Platinum.mtd,1,1,N/A,0.0,0.0,N/A,None,N/A,N/A,False,70,N/A,N/A,N/A,0.13,9.1,N/A,171,0.39,21450.0
+Polycarbonate (loss free).mtd,2.9,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,1.2,65,N/A,2.0,0.37,1200.0
+Polycarbonate (lossy).mtd,2.9,1.0,N/A,0.01,1.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,1.2,65,N/A,2.0,0.37,1200.0
+Polyimide (loss free).mtd,3.5,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.20,N/A,N/A,N/A,1.0,25,N/A,2.5,0.4,1400.0
+Polyimide (lossy).mtd,3.5,1.0,N/A,0.0027,1.0,N/A,None,N/A,N/A,False,0.20,N/A,N/A,N/A,1.0,25,N/A,2.5,0.4,1400.0
+Porcelain.mtd,6,1,N/A,0.0,0.0,N/A,None,N/A,N/A,False,2.0,N/A,N/A,N/A,1.1,4.9,N/A,104,0.3,2400
+Preperm 1000 (loss free).mtd,10.0,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2450.0
+Preperm 1000 (lossy).mtd,10.0,1.0,N/A,0.0027,1.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2450.0
+Preperm 255 (loss free).mtd,2.55,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1050.0
+Preperm 255 (lossy).mtd,2.55,1.0,N/A,0.0005,1.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1050.0
+Preperm 260 LDS (loss free).mtd,2.6,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1300.0
+Preperm 260 LDS (lossy).mtd,2.6,1.0,N/A,0.0005,1.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1300.0
+Preperm L270 (loss free).mtd,2.7,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1080.0
+Preperm L270 (lossy).mtd,2.7,1.0,N/A,0.0006,1.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1080.0
+Preperm L300 (loss free).mtd,3.0,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1210.0
+Preperm L300 (lossy).mtd,3.0,1.0,N/A,0.0005,1.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1210.0
+Preperm L330 (loss free).mtd,3.3,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1330.0
+Preperm L330 (lossy).mtd,3.3,1.0,N/A,0.0005,1.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1330.0
+Preperm L335 (loss free).mtd,3.35,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1340.0
+Preperm L335 (lossy).mtd,3.35,1.0,N/A,0.0005,1.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1340.0
+Preperm L380 (loss free).mtd,3.8,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1450.0
+Preperm L380 (lossy).mtd,3.8,1.0,N/A,0.0006,1.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1450.0
+Preperm L440 (loss free).mtd,4.4,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1540.0
+Preperm L440 (lossy).mtd,4.4,1.0,N/A,0.0005,1.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1540.0
+Preperm L450 (loss free).mtd,4.5,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1540.0
+Preperm L450 (lossy).mtd,4.5,1.0,N/A,0.0005,1.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1540.0
+Preperm L500 (loss free).mtd,5.0,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1700.0
+Preperm L500 (lossy).mtd,5.0,1.0,N/A,0.0005,1.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1700.0
+Preperm L570 (loss free).mtd,5.7,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1800.0
+Preperm L570 (lossy).mtd,5.7,1.0,N/A,0.0006,1.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1800.0
+Preperm L680HF (loss free).mtd,6.8,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1970.0
+Preperm L680HF (lossy).mtd,6.8,1.0,N/A,0.0006,1.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1970.0
+Preperm L700HF (loss free).mtd,7.0,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1980.0
+Preperm L700HF (lossy).mtd,7.0,1.0,N/A,0.0006,1.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1980.0
+Preperm L900HF (loss free).mtd,9.0,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2200.0
+Preperm L900HF (lossy).mtd,9.0,1.0,N/A,0.0004,1.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2200.0
+Preperm L960HF (loss free).mtd,9.6,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2300.0
+Preperm L960HF (lossy).mtd,9.6,1.0,N/A,0.0008,1.0,N/A,None,N/A,N/A,False,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2300.0
+PTFE (loss free).mtd,2.1,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.2,N/A,N/A,N/A,1.0,140,N/A,0.5,0.4,2200.0
+PTFE (lossy).mtd,2.1,1.0,N/A,0.0002,10.0,N/A,None,N/A,N/A,False,0.2,N/A,N/A,N/A,1.0,140,N/A,0.5,0.4,2200.0
+Quartz (Fused) (loss free).mtd,3.75,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,5,N/A,N/A,N/A,0.7,0.5,N/A,75,0.17,2200.0
+Quartz (Fused) (lossy).mtd,3.75,1.0,N/A,0.0004,1.0,N/A,None,N/A,N/A,False,5,N/A,N/A,N/A,0.7,0.5,N/A,75,0.17,2200.0
+Rogers RO3003 (loss free).mtd,3,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO3003 (lossy).mtd,3,1.0,N/A,0.0010,10.0,N/A,None,N/A,N/A,False,0.5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO3006 (loss free).mtd,6.5,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.61,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO3006 (lossy).mtd,6.5,1.0,N/A,0.002,10.0,N/A,None,N/A,N/A,False,0.61,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO3010 (loss free).mtd,11.2,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.66,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO3010 (lossy).mtd,11.2,1.0,N/A,0.0022,10.0,N/A,None,N/A,N/A,False,0.66,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO3035 (loss free).mtd,3.6,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.66,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO3035 (lossy).mtd,3.6,1.0,N/A,0.0015,10.0,N/A,None,N/A,N/A,False,0.66,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO3203 (loss free).mtd,3.02,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.47,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO3203 (lossy).mtd,3.02,1.0,N/A,0.0016,10.0,N/A,None,N/A,N/A,False,0.47,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO3206 (loss free).mtd,6.6,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.47,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO3206 (lossy).mtd,6.6,1.0,N/A,0.0027,10.0,N/A,None,N/A,N/A,False,0.47,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO3210 (loss free).mtd,10.8,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.81,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO3210 (lossy).mtd,10.8,1.0,N/A,0.0027,10.0,N/A,None,N/A,N/A,False,0.81,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4003C (loss free).mtd,3.55,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.64,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4003C (lossy).mtd,3.55,1.0,N/A,0.0027,10.0,N/A,None,N/A,N/A,False,0.64,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4003C LoPro (loss free).mtd,3.5,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.64,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4003C LoPro (lossy).mtd,3.5,1.0,N/A,0.0027,10.0,N/A,None,N/A,N/A,False,0.64,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4350B (loss free).mtd,3.66,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.62,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4350B (lossy).mtd,3.66,1.0,N/A,0.0037,10.0,N/A,None,N/A,N/A,False,0.62,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4350B LoPro (loss free).mtd,3.55,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.62,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4350B LoPro (lossy).mtd,3.55,1.0,N/A,0.0037,10.0,N/A,None,N/A,N/A,False,0.62,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4360G2 (loss free).mtd,6.4,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4360G2 (lossy).mtd,6.4,1.0,N/A,0.0038,10.0,N/A,None,N/A,N/A,False,0.8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4450B (loss free).mtd,3.7,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4450B (lossy).mtd,3.7,1.0,N/A,0.004,10.0,N/A,None,N/A,N/A,False,0.6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4450F (loss free).mtd,3.7,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4450F (lossy).mtd,3.7,1.0,N/A,0.004,10.0,N/A,None,N/A,N/A,False,0.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4533 (loss free).mtd,3.45,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4533 (lossy).mtd,3.45,1.0,N/A,0.0025,10.0,N/A,None,N/A,N/A,False,0.6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4534 (loss free).mtd,3.55,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4534 (lossy).mtd,3.55,1.0,N/A,0.0027,10.0,N/A,None,N/A,N/A,False,0.6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4535 (loss free).mtd,3.66,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4535 (lossy).mtd,3.66,1.0,N/A,0.0037,10.0,N/A,None,N/A,N/A,False,0.6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4725JXR (loss free).mtd,2.64,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.47,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4725JXR (lossy).mtd,2.64,1.0,N/A,0.0026,10.0,N/A,None,N/A,N/A,False,0.47,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4730G3 (loss free).mtd,2.98,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.47,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4730G3 (lossy).mtd,2.98,1.0,N/A,0.003,10.0,N/A,None,N/A,N/A,False,0.47,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4730JXR (loss free).mtd,2.98,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.47,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4730JXR (lossy).mtd,2.98,1.0,N/A,0.0027,10.0,N/A,None,N/A,N/A,False,0.47,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4830 (loss free).mtd,3.2,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.47,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4830 (lossy).mtd,3.2,1.0,N/A,0.0033,10.0,N/A,None,N/A,N/A,False,0.47,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4835 (loss free).mtd,3.66,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4835 (lossy).mtd,3.66,1.0,N/A,0.0037,10.0,N/A,None,N/A,N/A,False,0.6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4835 LoPro (loss free).mtd,3.55,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.73,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RO4835 LoPro (lossy).mtd,3.55,1.0,N/A,0.0037,10.0,N/A,None,N/A,N/A,False,0.73,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RT5870 (loss free).mtd,2.33,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.22,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RT5870 (lossy).mtd,2.33,1.0,N/A,0.0012,10.0,N/A,None,N/A,N/A,False,0.22,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RT5880 (loss free).mtd,2.2,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RT5880 (lossy).mtd,2.2,1.0,N/A,0.0009,10.0,N/A,None,N/A,N/A,False,0.20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RT5880LZ (loss free).mtd,2.0,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.33,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RT5880LZ (lossy).mtd,2.0,1.0,N/A,0.0021,10.0,N/A,None,N/A,N/A,False,0.33,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RT6002 (loss free).mtd,2.94,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.60,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RT6002 (lossy).mtd,2.94,1.0,N/A,0.0012,10.0,N/A,None,N/A,N/A,False,0.60,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RT6006 (loss free).mtd,6.45,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.48,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RT6006 (lossy).mtd,6.45,1.0,N/A,0.0027,10.0,N/A,None,N/A,N/A,False,0.48,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RT6010LM (loss free).mtd,10.7,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.78,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RT6010LM (lossy).mtd,10.7,1.0,N/A,0.0023,10.0,N/A,None,N/A,N/A,False,0.78,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RT6035HTC (loss free).mtd,3.6,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.60,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RT6035HTC (lossy).mtd,3.6,1.0,N/A,0.0013,10.0,N/A,None,N/A,N/A,False,0.60,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RT6202 (loss free).mtd,2.94,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.60,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RT6202 (lossy).mtd,2.94,1.0,N/A,0.0015,10.0,N/A,None,N/A,N/A,False,0.60,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RT6202PR (loss free).mtd,2.98,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.60,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers RT6202PR (lossy).mtd,2.98,1.0,N/A,0.002,10.0,N/A,None,N/A,N/A,False,0.60,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers TC350 (loss free).mtd,3.6,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,1.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers TC350 (lossy).mtd,3.6,1.0,N/A,0.002,10.0,N/A,None,N/A,N/A,False,1.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers TC600 (loss free).mtd,6.15,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,1.1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers TC600 (lossy).mtd,6.15,1.0,N/A,0.002,10.0,N/A,None,N/A,N/A,False,1.1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers TMM 10 (loss free).mtd,9.8,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.76,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers TMM 10 (lossy).mtd,9.8,1.0,N/A,0.0022,10.0,N/A,None,N/A,N/A,False,0.76,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers TMM 10i (loss free).mtd,9.9,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.76,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers TMM 10i (lossy).mtd,9.9,1.0,N/A,0.002,10.0,N/A,None,N/A,N/A,False,0.76,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers TMM 13i (loss free).mtd,12.2,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.76,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers TMM 13i (lossy).mtd,12.2,1.0,N/A,0.0019,10.0,N/A,None,N/A,N/A,False,0.76,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers TMM 3 (loss free).mtd,3.45,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.70,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers TMM 3 (lossy).mtd,3.45,1.0,N/A,0.002,10.0,N/A,None,N/A,N/A,False,0.70,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers TMM 4 (loss free).mtd,4.7,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.70,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers TMM 4 (lossy).mtd,4.7,1.0,N/A,0.002,10.0,N/A,None,N/A,N/A,False,0.70,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers TMM 6 (loss free).mtd,6.3,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.72,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers TMM 6 (lossy).mtd,6.3,1.0,N/A,0.0023,10.0,N/A,None,N/A,N/A,False,0.72,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers XT8000 (loss free).mtd,3.3,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.48,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers XT8000 (lossy).mtd,3.3,1.0,N/A,0.0035,10.0,N/A,None,N/A,N/A,False,0.48,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers XT8100 (loss free).mtd,3.5,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.48,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rogers XT8100 (lossy).mtd,3.5,1.0,N/A,0.0049,10.0,N/A,None,N/A,N/A,False,0.48,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Rubber.mtd,3,1,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.16,N/A,N/A,N/A,2.0,77,N/A,0.05,0.49,930
+Sandy Soil (dry).mtd,2.53,1,N/A,0.0036,10.0,N/A,None,N/A,N/A,False,0.2,N/A,N/A,N/A,0.8,N/A,N/A,N/A,N/A,1550
+Sandy Soil (wet).mtd,13,1,N/A,0.29,10.0,N/A,None,N/A,N/A,False,1.0,N/A,N/A,N/A,1.5,N/A,N/A,N/A,N/A,1800
+Schott AF 32 eco.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott B 270 i.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott B 270.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott BOROFLOAT 33.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott D 263 T eco.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott FOTURAN II (ceramized 560C).mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott FOTURAN II (ceramized 810C).mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott FOTURAN II (glass).mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott LaSF35.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott MEMpax.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott N-LAF7.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott N-LAK22.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott N-SF11.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott N-SF4.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott N-SF57.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott N-SF6.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott N-SF66.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott NEXTREMA 712-3 tinted.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott NEXTREMA 712-6 translucent bluegrey.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott NEXTREMA 712-8 opaque grey.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott NEXTREMA 724-3 transparent.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott NEXTREMA 724-8 opaque white.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott P-LAK35.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Schott RESISTAN_T.mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,True,0,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,0
+Silicon (loss free).mtd,11.9,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,148,N/A,N/A,N/A,0.7,5.1,N/A,112,0.28,2330.0
+Silicon (lossy).mtd,11.9,1.0,N/A,0.00,0.0,N/A,None,N/A,N/A,False,148,N/A,N/A,N/A,0.7,5.1,N/A,112,0.28,2330.0
+Silver.mtd,1,1.0,6.3012e007,0.0,0.0,N/A,None,N/A,N/A,False,429,N/A,N/A,N/A,0.23,20,N/A,76,0.37,10500.0
+ST37.mtd,1,1000,0,0.0,0.0,N/A,None,N/A,N/A,False,0,N/A,N/A,N/A,0,N/A,0,N/A,N/A,7850
+Steel-1008.mtd,1,1.0,7.69e006,0.0,0.0,N/A,None,N/A,N/A,False,59.5,N/A,N/A,N/A,0.48,13.5,0,200,0.29,7870.0
+Steel-1010.mtd,1,1.0,6.993e006,0.0,0.0,N/A,None,N/A,N/A,False,65.2,N/A,N/A,N/A,0.45,13.5,0,205,0.29,7870.0
+Sulfur Hexafluoride (SF6).mtd,1.002026,1,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.012,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1330
+Taconic CER-10 (loss free).mtd,10,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.63,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic CER-10 (lossy).mtd,10,1.0,N/A,0.0035,10.0,N/A,None,N/A,N/A,False,0.63,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic EZ-IO (loss free).mtd,2.80,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.42,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic EZ-IO (lossy).mtd,2.80,1.0,N/A,0.0012,10.0,N/A,None,N/A,N/A,False,0.42,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic HT-1.5 (loss free).mtd,2.35,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.22,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic HT-1.5 (lossy).mtd,2.35,1.0,N/A,0.0025,10.0,N/A,None,N/A,N/A,False,0.22,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic NF-30 (loss free).mtd,3,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic NF-30 (lossy).mtd,3,1.0,N/A,0.0013,10.0,N/A,None,N/A,N/A,False,0.5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-10 (loss free).mtd,10.2,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.85,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-10 (lossy).mtd,10.2,1.0,N/A,0.0025,10.0,N/A,None,N/A,N/A,False,0.85,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-30 (loss free).mtd,3,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-30 (lossy).mtd,3,1.0,N/A,0.0019,10.0,N/A,None,N/A,N/A,False,0.23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-30A (loss free).mtd,2.97,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.42,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-30A (lossy).mtd,2.97,1.0,N/A,0.002,10.0,N/A,None,N/A,N/A,False,0.42,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-35 (loss free).mtd,3.5,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-35 (lossy).mtd,3.5,1.0,N/A,0.0025,10.0,N/A,None,N/A,N/A,False,0.24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-35A2 (loss free).mtd,3.5,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.29,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-35A2 (lossy).mtd,3.5,1.0,N/A,0.0018,10.0,N/A,None,N/A,N/A,False,0.29,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-35TC (loss free).mtd,3.5,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-35TC (lossy).mtd,3.5,1.0,N/A,0.0011,10.0,N/A,None,N/A,N/A,False,0.6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-35TCA (loss free).mtd,3.5,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.83,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-35TCA (lossy).mtd,3.5,1.0,N/A,0.0017,10.0,N/A,None,N/A,N/A,False,0.83,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-41 (loss free).mtd,4.1,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.33,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-41 (lossy).mtd,4.1,1.0,N/A,0.0038,10.0,N/A,None,N/A,N/A,False,0.33,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-43 (loss free).mtd,4.3,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.33,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-43 (lossy).mtd,4.3,1.0,N/A,0.0033,10.0,N/A,None,N/A,N/A,False,0.33,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-45 (loss free).mtd,4.5,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.33,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-45 (lossy).mtd,4.5,1.0,N/A,0.0037,10.0,N/A,None,N/A,N/A,False,0.33,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-60A (loss free).mtd,6.15,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.54,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-60A (lossy).mtd,6.15,1.0,N/A,0.0028,10.0,N/A,None,N/A,N/A,False,0.54,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-60TC (loss free).mtd,6.15,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic RF-60TC (lossy).mtd,6.15,1.0,N/A,0.002,10.0,N/A,None,N/A,N/A,False,0.9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLA-6 (loss free).mtd,2.62,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.22,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLA-6 (lossy).mtd,2.62,1.0,N/A,0.002,10.0,N/A,None,N/A,N/A,False,0.22,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLC-27 (loss free).mtd,2.75,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLC-27 (lossy).mtd,2.75,1.0,N/A,0.003,10.0,N/A,None,N/A,N/A,False,0.24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLC-30 (loss free).mtd,3,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLC-30 (lossy).mtd,3,1.0,N/A,0.0028,10.0,N/A,None,N/A,N/A,False,0.24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLC-32 (loss free).mtd,3.2,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLC-32 (lossy).mtd,3.2,1.0,N/A,0.003,10.0,N/A,None,N/A,N/A,False,0.24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLE-95 (loss free).mtd,2.95,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLE-95 (lossy).mtd,2.95,1.0,N/A,0.0028,10.0,N/A,None,N/A,N/A,False,0.20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLF-35A (loss free).mtd,3.5,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.37,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLF-35A (lossy).mtd,3.5,1.0,N/A,0.0022,10.0,N/A,None,N/A,N/A,False,0.37,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLP-5 (loss free).mtd,2.2,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.22,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLP-5 (lossy).mtd,2.2,1.0,N/A,0.0009,10.0,N/A,None,N/A,N/A,False,0.22,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLT-0 (loss free).mtd,2.45,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLT-0 (lossy).mtd,2.45,1.0,N/A,0.0017,10.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLT-6 (loss free).mtd,2.65,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLT-6 (lossy).mtd,2.65,1.0,N/A,0.0017,10.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLT-7 (loss free).mtd,2.6,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLT-7 (lossy).mtd,2.6,1.0,N/A,0.0017,10.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLT-8 (loss free).mtd,2.55,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLT-8 (lossy).mtd,2.55,1.0,N/A,0.0017,10.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLT-9 (loss free).mtd,2.5,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLT-9 (lossy).mtd,2.5,1.0,N/A,0.0017,10.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLX-0 (loss free).mtd,2.45,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLX-0 (lossy).mtd,2.45,1.0,N/A,0.0012,10.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLX-6 (loss free).mtd,2.65,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLX-6 (lossy).mtd,2.65,1.0,N/A,0.0022,10.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLX-7 (loss free).mtd,2.6,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLX-7 (lossy).mtd,2.6,1.0,N/A,0.002,10.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLX-8 (loss free).mtd,2.55,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLX-8 (lossy).mtd,2.55,1.0,N/A,0.0017,10.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLX-9 (loss free).mtd,2.5,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLX-9 (lossy).mtd,2.5,1.0,N/A,0.0015,10.0,N/A,None,N/A,N/A,False,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLY-3 (loss free).mtd,2.33,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.22,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLY-3 (lossy).mtd,2.33,1.0,N/A,0.0012,10.0,N/A,None,N/A,N/A,False,0.22,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLY-5 (loss free).mtd,2.2,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.22,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLY-5 (lossy).mtd,2.2,1.0,N/A,0.0009,10.0,N/A,None,N/A,N/A,False,0.22,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLY-5A (loss free).mtd,2.17,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.22,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLY-5A (lossy).mtd,2.17,1.0,N/A,0.0009,10.0,N/A,None,N/A,N/A,False,0.22,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLY-5Z (loss free).mtd,2.2,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TLY-5Z (lossy).mtd,2.2,1.0,N/A,0.0015,10.0,N/A,None,N/A,N/A,False,0.2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TRF-41 (loss free).mtd,4.1,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.43,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TRF-41 (lossy).mtd,4.1,1.0,N/A,0.0035,10.0,N/A,None,N/A,N/A,False,0.43,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TRF-43 (loss free).mtd,4.3,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.43,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TRF-43 (lossy).mtd,4.3,1.0,N/A,0.0035,10.0,N/A,None,N/A,N/A,False,0.43,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TRF-45 (loss free).mtd,4.5,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.43,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TRF-45 (lossy).mtd,4.5,1.0,N/A,0.0035,10.0,N/A,None,N/A,N/A,False,0.43,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TSM-DS3 (loss free).mtd,3.0,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TSM-DS3 (lossy).mtd,3.0,1.0,N/A,0.0011,10.0,N/A,None,N/A,N/A,False,0.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TSM-DS3b (loss free).mtd,3.0,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TSM-DS3b (lossy).mtd,3.0,1.0,N/A,0.0011,10.0,N/A,None,N/A,N/A,False,0.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TSM-DS3M (loss free).mtd,2.94,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Taconic TSM-DS3M (lossy).mtd,2.94,1.0,N/A,0.0011,10.0,N/A,None,N/A,N/A,False,0.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.0
+Tantalum.mtd,1,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,57.5,N/A,N/A,N/A,0.14,6.6,N/A,186,0.35,16650.0
+Tin.mtd,1,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,66.6,N/A,N/A,N/A,0.23,20,N/A,41.1,0.33,7300.0
+Tungsten.mtd,N/A,1,1.89e7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,173,N/A,N/A,N/A,0.134,4.5,0,411,0.28,19250
+Vacuum.mtd,1.0,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0
+Water (Debye Model).mtd,78.4,1.0,N/A,0.0,0.0,3.1,Debye1st,78.4,8.27e-12,False,0.6,N/A,N/A,N/A,4.2,N/A,N/A,N/A,N/A,1000
+Water (distilled).mtd,78.4,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.6,N/A,N/A,N/A,4.2,N/A,N/A,N/A,N/A,998
+Water (sea).mtd,74,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.6,N/A,N/A,N/A,4.2,N/A,N/A,N/A,N/A,1025
+Water liquid (20C) (CHT).mtd,78,0.999991,1.59,0.0,0.0,N/A,None,N/A,N/A,False,0.5986,N/A,N/A,N/A,4.1842,N/A,0,N/A,N/A,998.6
+Water vapor (20C Saturated) (CHT).mtd,1,1,0,0.0,0.0,N/A,None,N/A,N/A,False,0.018228,N/A,N/A,N/A,1.9059,N/A,0,N/A,N/A,0.017324
+Water.mtd,78,1.0,N/A,0.0,0.0,N/A,None,N/A,N/A,False,0.6,N/A,N/A,N/A,4.2,N/A,N/A,N/A,N/A,1000
+Wood.mtd,1,1,N/A,0.0,0.0,N/A,None,N/A,N/A,True,0.2,N/A,N/A,N/A,2.0,N/A,N/A,N/A,N/A,500
+Zinc.mtd,1,1,N/A,0.0,0.0,N/A,None,N/A,N/A,False,116,N/A,N/A,N/A,0.39,31,N/A,96.5,0.32,7100
