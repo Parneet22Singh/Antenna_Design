@@ -92,7 +92,7 @@ if mode == "Standard Patch Calculator Mode":
     freq = st.number_input("Operating Frequency (GHz)", min_value=0.1, max_value=100.0, value=2.4, step=0.1)
     h_mm = st.number_input("Substrate Height (mm)", min_value=0.1, max_value=10.0, value=1.6, step=0.1)
 
-    if st.button("🧮 Calculate"):
+    if st.button("  Calculate"):
         fr = freq * 1e9  # Hz
         h = h_mm / 1000  # meters
 
@@ -128,9 +128,7 @@ elif mode == "Design-Oriented Mode":
 
     def filter_materials(component):
         allowed = component_materials.get(component, [])
-        # Filter df where any allowed material string is substring (case insensitive) of Filename
-        filtered = df[df['Filename'].apply(lambda x: any(mat.lower() in x.lower() for mat in allowed))]
-        return filtered
+        return df[df['Filename'].apply(lambda x: any(mat.lower() in x.lower() for mat in allowed))]
 
     substrate_df = filter_materials("Substrate")
     patch_df = filter_materials("Patch")
@@ -161,7 +159,7 @@ elif mode == "Design-Oriented Mode":
     freq = st.number_input("Frequency (GHz)", min_value=1.0, max_value=5.0, value=2.4, step=0.1)
     h_mm = st.number_input("Substrate Height (mm)", min_value=0.5, max_value=5.0, value=1.6, step=0.1)
 
-    if st.button("🧮 Calculate Design"):
+    if st.button("  Calculate Design"):
         fr = freq * 1e9
         h = h_mm / 1000
         epsilon_sub = df[df['Filename'] == substrate_choice].iloc[0]['Epsilon']
@@ -169,7 +167,6 @@ elif mode == "Design-Oriented Mode":
 
         patch_x = (g_wid - W) / 2
         patch_y = (g_len - L) / 2
-
         feed_abs_x = patch_x + fx
         feed_abs_y = patch_y + fy
 
@@ -188,21 +185,18 @@ elif mode == "Design-Oriented Mode":
         for w in warnings:
             st.warning(w)
 
-        # 3D Plot: Simplified patch and ground using surfaces instead of mesh3d for clarity
-
-        # Ground plane corners
+        # 3D Plot
         ground_x = [0, g_wid]
         ground_y = [0, g_len]
         ground_z = [[0, 0], [0, 0]]
 
-        # Patch corners (slightly elevated)
         patch_x_arr = [patch_x, patch_x + W]
         patch_y_arr = [patch_y, patch_y + L]
-        patch_z = [[0.1, 0.1], [0.1, 0.1]]
-
+        patch_height = 0.035  # metal layer thickness in mm
+        substrate_height = h_mm  # user input in mm
+        patch_z = [[substrate_height, substrate_height], [substrate_height, substrate_height]]
         fig = go.Figure()
 
-        # Ground plane surface
         fig.add_trace(go.Surface(
             x=[[ground_x[0], ground_x[1]], [ground_x[0], ground_x[1]]],
             y=[[ground_y[0], ground_y[0]], [ground_y[1], ground_y[1]]],
@@ -213,7 +207,6 @@ elif mode == "Design-Oriented Mode":
             name='Ground Plane'
         ))
 
-        # Patch surface
         fig.add_trace(go.Surface(
             x=[[patch_x_arr[0], patch_x_arr[1]], [patch_x_arr[0], patch_x_arr[1]]],
             y=[[patch_y_arr[0], patch_y_arr[0]], [patch_y_arr[1], patch_y_arr[1]]],
@@ -224,7 +217,6 @@ elif mode == "Design-Oriented Mode":
             name='Patch'
         ))
 
-        # Feed point
         fig.add_trace(go.Scatter3d(
             x=[feed_abs_x],
             y=[feed_abs_y],
@@ -247,4 +239,4 @@ elif mode == "Design-Oriented Mode":
         )
 
         st.plotly_chart(fig, use_container_width=True)
-      
+        
