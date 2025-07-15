@@ -28,18 +28,22 @@ def plot_comparison(user_vals, ref_vals, tissue_name, compat_list):
     colors = ['green' if c else 'red' for c in compat_list]
 
     x = np.arange(len(fields))
-    width = 0.35
 
     fig, ax = plt.subplots()
-    ax.bar(x - width / 2, user_y, width, label='Your Values', color='blue')
-    ax.bar(x + width / 2, ref_y, width, label='Reference', color=colors)
 
-    ax.set_xlabel("Dielectric Properties")
-    ax.set_ylabel("Values")
-    ax.set_title(f"Comparison with {tissue_name}")
+    ax.plot(x, user_y, marker='o', label='Your Values', color='blue', linewidth=2)
+
+    ax.plot(x, ref_y, marker='s', label='Reference Values', color='gray', linewidth=2)
+    
+    for i in range(len(x)):
+        ax.plot(x[i], ref_y[i], marker='s', color=colors[i], markersize=10)
+
     ax.set_xticks(x)
     ax.set_xticklabels(fields)
+    ax.set_ylabel("Value")
+    ax.set_title(f"Comparison with {tissue_name}")
     ax.legend()
+    ax.grid(True)
 
     return fig
 
