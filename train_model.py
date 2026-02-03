@@ -2,15 +2,16 @@ import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import classification_report
 import joblib
 
-# Load ITIS data
-df = pd.read_csv("itis_full.csv") #or whatever name your file is saved with
+# ---------------- Load data ----------------
+df = pd.read_csv("Tissues_propeties (2).csv")
 
-# ---- Physics Features ----
 mu0 = 4 * np.pi * 1e-7
 eps0 = 8.854e-12
 
+# ---------------- Physics features ----------------
 df["freq_hz"] = df["Frequency"] * 1e9
 omega = 2 * np.pi * df["freq_hz"]
 
@@ -19,7 +20,7 @@ sigma = df["elec_cond"].replace(0, 1e-9)
 df["penetration_depth"] = np.sqrt(2 / (omega * mu0 * sigma))
 df["loss_tangent"] = df["elec_cond"] / (omega * eps0 * df["Permittivity"])
 
-# ---- Tissue Classes ----
+# ---------------- Create classes from tissue names ----------------
 def classify(tissue):
     if "Fat" in tissue or "SAT" in tissue or "Breast Fat" in tissue:
         return "Fatty"
@@ -32,7 +33,7 @@ def classify(tissue):
 
 df["TissueClass"] = df["Tissue"].apply(classify)
 
-# ---- Train ML ----
+# ---------------- Train model ----------------
 X = df[[
     "Frequency",
     "Permittivity",
@@ -50,5 +51,7 @@ X_train, X_test, y_train, y_test = train_test_split(
 model = RandomForestClassifier(n_estimators=300)
 model.fit(X_train, y_train)
 
+print(classification_report(y_test, model.predict(X_test)))
+
 joblib.dump(model, "tissue_classifier.pkl")
-print("Model trained and saved.")
+print("Model trained and saved as tissue_classifier.pkl")
